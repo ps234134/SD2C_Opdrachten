@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpdrachtGarage_SDLC_W2", "OpdrachtGarage_SDLC_W2\OpdrachtGarage_SDLC_W2.csproj", "{30C513F9-BC47-46C3-BC20-7D3D5ACC31CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C513F9-BC47-46C3-BC20-7D3D5ACC31CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C513F9-BC47-46C3-BC20-7D3D5ACC31CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C513F9-BC47-46C3-BC20-7D3D5ACC31CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C513F9-BC47-46C3-BC20-7D3D5ACC31CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176692DA-D7AC-4E5B-94A1-44C23F2CD38D}
+	EndGlobalSection
+EndGlobal

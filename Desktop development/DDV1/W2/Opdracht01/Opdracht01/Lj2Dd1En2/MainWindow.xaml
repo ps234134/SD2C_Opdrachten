@@ -1,0 +1,92 @@
+﻿<Window x:Class="Lj2Dd1En2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lj2Dd1En2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <TextBlock Text="Autos" 
+                       Grid.Row="0"
+                       FontSize="20" FontWeight="Black" TextAlignment="Center"/>
+                <ListBox x:Name="LbAutos"  Grid.Row="1" 
+                         
+                         SelectionChanged="LbAutos_SelectionChanged" 
+                        
+                         />
+            </Grid>
+
+            <Grid Grid.Column="1" Margin="2, 0, 0, 2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Background="AliceBlue">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition />
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="SelectedAuto" 
+                               FontSize="20" FontWeight="Black" TextAlignment="Center"/>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Merk"/>
+                    <TextBox   Grid.Row="1" Grid.Column="1" x:Name="TbMerk1" />
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Afbeelding"/>
+                    <Image     Grid.Row="2" Grid.Column="1" x:Name="imgAfbeelding1"/>
+                    <Button    Grid.Row="3" Grid.Column="1" Content="afbeelding..."  Click="BtnAfbeelding1_Click" />
+                    <TextBlock Grid.Row="4" Grid.Column="0" Text="Jaar"/>
+                    <TextBox   Grid.Row="4" Grid.Column="1" x:Name="TbJaar1" />
+                    <StackPanel Grid.Row="5" Grid.Column="1" Orientation="Horizontal">
+                        <Button Content="Update" Click="BtnUpdate_Click" Margin="5"/>
+                        <Button Content="Delete" Click="BtnDelete_Click" Margin="5"/>
+                    </StackPanel>
+                </Grid>
+
+                <Grid Grid.Row="1" Background="MintCream">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition />
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="NewAuto" 
+                               FontSize="20" FontWeight="Black" TextAlignment="Center"/>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Merk"/>
+                    <TextBox   Grid.Row="1" Grid.Column="1" x:Name="TbMerk2" />
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Afbeelding"/>
+                    <Image     Grid.Row="2" Grid.Column="1" x:Name="imgAfbeelding2" Margin="0,0,0,81" Grid.RowSpan="4" RenderTransformOrigin="0.495,0.796"/>
+                    <Button    Grid.Row="5" Grid.Column="1" Content="afbeelding..."  Click="BtnAfbeelding2_Click" Margin="5,58,-5,58" />
+                    <TextBlock Grid.Row="5" Grid.Column="0" Text="Jaar" Grid.ColumnSpan="2" Margin="0,92,340,0"/>
+                    <TextBox   Grid.Row="5" Grid.Column="1" x:Name="TbJaar2" TextChanged="TbJaar2_TextChanged" Margin="5,92,-5,25" />
+                    <Button    Grid.Row="6" Grid.Column="1" Content="Create" Margin="0,110,10,5" Click="BtnCreate_Click" />
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

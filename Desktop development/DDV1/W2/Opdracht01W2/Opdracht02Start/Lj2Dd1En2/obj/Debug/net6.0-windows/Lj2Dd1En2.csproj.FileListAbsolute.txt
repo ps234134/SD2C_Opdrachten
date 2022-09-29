@@ -1,0 +1,60 @@
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.exe
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.deps.json
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.runtimeconfig.json
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.pdb
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.csproj.AssemblyReference.cache
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2_MarkupCompile.cache
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2_MarkupCompile.lref
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.g.resources
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.AssemblyInfoInputs.cache
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.AssemblyInfo.cs
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.csproj.CoreCompileInputs.cache
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.csproj.CopyComplete
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\refint\Lj2Dd1En2.dll
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.pdb
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.genruntimeconfig.cache
+C:\Users\tutai\Downloads\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\ref\Lj2Dd1En2.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.exe
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.deps.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.runtimeconfig.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Lj2Dd1En2.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.csproj.AssemblyReference.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2_MarkupCompile.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2_MarkupCompile.lref
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.g.resources
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.AssemblyInfoInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.AssemblyInfo.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.csproj.CoreCompileInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.csproj.CopyComplete
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\refint\Lj2Dd1En2.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\Lj2Dd1En2.genruntimeconfig.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht02Start\Opdracht02Start\Lj2Dd1En2\obj\Debug\net6.0-windows\ref\Lj2Dd1En2.dll

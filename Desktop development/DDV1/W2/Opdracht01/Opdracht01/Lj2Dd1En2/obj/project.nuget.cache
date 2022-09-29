@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TNDM07ilxEvZpfEk7RVOxIxItwJOH4Io4XhzI7r/eEYf+YrW1JiW+GuijAthUvEbJ/IO3oV7i0/XMfBdjxp/nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tutai\\OneDrive\\Bureaublad\\Summa\\SD2C\\Desktop development\\DDV1\\Opdracht01\\Opdracht01\\Lj2Dd1En2\\Lj2Dd1En2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tutai\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

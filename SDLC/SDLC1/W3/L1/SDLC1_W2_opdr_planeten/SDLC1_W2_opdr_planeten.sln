@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDLC1_W2_opdr_planeten", "SDLC1_W2_opdr_planeten\SDLC1_W2_opdr_planeten.csproj", "{0516FA10-C333-47FC-AED9-9517BB7D895F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0516FA10-C333-47FC-AED9-9517BB7D895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0516FA10-C333-47FC-AED9-9517BB7D895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0516FA10-C333-47FC-AED9-9517BB7D895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0516FA10-C333-47FC-AED9-9517BB7D895F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A089658-BFDB-4E26-BD98-2AF192D2D2D1}
+	EndGlobalSection
+EndGlobal

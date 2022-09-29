@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lj2Dd1En2_cksxyipq_wpftmp
+build_property.ProjectDir = C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Opdracht01\Opdracht01\Lj2Dd1En2\
