@@ -9,7 +9,7 @@ class Speelveld{
     public int $hoogte;
     public int $breedte;
     
-    public function BalGeraakt(): Batje {return new Batje();}
+    public function balGeraakt(): Batje {return new Batje();}
 
 }
 
@@ -25,7 +25,7 @@ class Batje{
         return $this -> y;
     }
 
-    public function NieuwePositie(int $x, int $y)
+    public function nieuwePositie(int $x, int $y)
     {
         
     }
@@ -36,7 +36,7 @@ class bal{
     public int $y;
     public int $richting;
     
-    public function NieuwRichting(): void{}
+    public function nieuwRichting(): void{}
 }
 
 class Speler{
@@ -47,7 +47,7 @@ class Speler{
         return $this -> score;
     }
 
-    public function VerhoogScore(): void{}
+    public function verhoogScore(): void{}
 }
 
 class Mens extends Speler{
@@ -61,7 +61,7 @@ class Mens extends Speler{
         
     }
 
-    public function VerlaagLevens(): void{}
+    public function verlaagLevens(): void{}
 }
 
 class Robot extends Speler{
