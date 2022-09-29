@@ -46,6 +46,8 @@ class Speler{
     public function getScore(){
         return $this -> score;
     }
+
+    public function VerhoogScore(): void{}
 }
 
 class Mens extends Speler{
