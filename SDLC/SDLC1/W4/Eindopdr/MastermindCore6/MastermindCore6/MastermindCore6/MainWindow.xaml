@@ -1,0 +1,20 @@
+﻿<Window x:Class="MastermindCore6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MastermindCore6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center"  >
+            <ListView x:Name="lvRaster" MinHeight="300" BorderThickness="0" HorizontalAlignment="Center" />
+            <CheckBox  x:Name="cbOpenSpel" Content="Open Spel" HorizontalAlignment="Center" Click="cbOpenSpel_Click"/>
+            <TextBlock  x:Name="tbTeRaden" Text="0000" Width="100" FontSize="24" Visibility="Collapsed" Margin="0,10"/>
+            <Button  x:Name="btStart" Content="Start" Width="100" Click="btStart_Click" Margin="0,10"/>
+            <TextBox  x:Name="tbPoging" Width="100" TextChanged="tbPoging_TextChanged" Margin="0,10"/>
+            <Button  x:Name="btOK" Content="OK" Width="100" Click="btOK_Click" Margin="0,10"/>
+            <TextBox x:Name="tbUitslag"  Margin="0,10" BorderThickness="0" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>
