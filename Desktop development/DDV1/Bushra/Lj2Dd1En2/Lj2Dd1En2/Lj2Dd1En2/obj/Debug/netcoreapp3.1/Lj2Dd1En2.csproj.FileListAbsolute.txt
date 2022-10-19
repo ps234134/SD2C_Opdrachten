@@ -1,0 +1,74 @@
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.exe
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.dll.config
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.deps.json
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.runtimeconfig.json
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.runtimeconfig.dev.json
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.pdb
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.csproj.AssemblyReference.cache
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\DisplayWindow.g.cs
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2_MarkupCompile.cache
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2_MarkupCompile.lref
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\DisplayWindow.baml
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.g.resources
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.AssemblyInfoInputs.cache
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.AssemblyInfo.cs
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.csproj.CoreCompileInputs.cache
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.csproj.CopyComplete
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.dll
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.pdb
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.genruntimeconfig.cache
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\IngredientenWindow.g.cs
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\KeuzeWindow.g.cs
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\IngredientenWindow.baml
+C:\Users\bushr\Documents\school\Leerjaar 2\Desktop Development\Herhalingsopdrachten\Opdracht03\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\KeuzeWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.exe
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.dll.config
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.deps.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.runtimeconfig.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.runtimeconfig.dev.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Lj2Dd1En2.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.csproj.AssemblyReference.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\DisplayWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\IngredientenWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\KeuzeWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2_MarkupCompile.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2_MarkupCompile.lref
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\DisplayWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\IngredientenWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Views\KeuzeWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.g.resources
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.AssemblyInfoInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.AssemblyInfo.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.csproj.CoreCompileInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.csproj.CopyComplete
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Bushra\Lj2Dd1En2\Lj2Dd1En2\Lj2Dd1En2\obj\Debug\netcoreapp3.1\Lj2Dd1En2.genruntimeconfig.cache

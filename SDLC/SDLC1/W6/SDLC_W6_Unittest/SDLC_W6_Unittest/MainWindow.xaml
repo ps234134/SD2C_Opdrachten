@@ -1,0 +1,30 @@
+﻿<Window x:Class="SDLC_W6_Unittest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SDLC_W6_Unittest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1" Width="200" Height="300" Background="AliceBlue">
+            <TextBox x:Name="tbValuta1" Height="20" Width="180" Background="AntiqueWhite" Margin="0,60,0,0"/>
+            <RadioButton Content="Euro" Width="60px" HorizontalAlignment="Left" Margin="10,30,0,0"/>
+            <RadioButton Content="USD" Width="60px" HorizontalAlignment="Left" Margin="10,30,0,0"/>
+            <RadioButton Content="Yen" Width="60px" HorizontalAlignment="Left" Margin="10,30,0,0"/>
+        </StackPanel>
+        <StackPanel Grid.Column="3" Width="200" Height="300" Background="AliceBlue">
+            <TextBox x:Name="tbValuta2" Height="20" Width="180" Background="AntiqueWhite" Margin="0,60,0,0"/>
+            <RadioButton Content="Euro" Width="60px" HorizontalAlignment="Left" Margin="10,30,0,0"/>
+            <RadioButton Content="USD" Width="60px" HorizontalAlignment="Left" Margin="10,30,0,0"/>
+            <RadioButton Content="Yen" Width="60px" HorizontalAlignment="Left" Margin="10,30,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

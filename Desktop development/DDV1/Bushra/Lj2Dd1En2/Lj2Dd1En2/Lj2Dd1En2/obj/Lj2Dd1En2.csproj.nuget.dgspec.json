@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tutai\\OneDrive\\Bureaublad\\Summa\\SD2C\\Desktop development\\DDV1\\Bushra\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tutai\\OneDrive\\Bureaublad\\Summa\\SD2C\\Desktop development\\DDV1\\Bushra\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tutai\\OneDrive\\Bureaublad\\Summa\\SD2C\\Desktop development\\DDV1\\Bushra\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2.csproj",
+        "projectName": "Lj2Dd1En2",
+        "projectPath": "C:\\Users\\tutai\\OneDrive\\Bureaublad\\Summa\\SD2C\\Desktop development\\DDV1\\Bushra\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2.csproj",
+        "packagesPath": "C:\\Users\\tutai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tutai\\OneDrive\\Bureaublad\\Summa\\SD2C\\Desktop development\\DDV1\\Bushra\\Lj2Dd1En2\\Lj2Dd1En2\\Lj2Dd1En2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tutai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.29, 3.1.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

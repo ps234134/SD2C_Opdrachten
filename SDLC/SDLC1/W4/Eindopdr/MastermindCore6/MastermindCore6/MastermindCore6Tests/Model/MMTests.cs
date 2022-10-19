@@ -12,33 +12,50 @@ namespace MastermindCore6.Model.Tests
     public class MMTests
     {
         [TestMethod()]
-        public void NieuwSpelTest()
+        public void TestMethodPosities()
         {
-            Assert.Fail();
+            MM mm = new MM();
+            mm.TeRaden = "1234";    
+            mm.Poging = "0253";
+            int u = mm.PositiesOK();
+            Assert.AreEqual(1, u, "PositiesOK fout");
+        }
+
+
+
+
+        [TestMethod()]
+        public void TestMethodAantal()
+        {
+            MM mm = new MM();
+            mm.TeRaden = "1234";
+            mm.Poging = "0253";
+            int u = mm.AantalOK();
+            Assert.AreEqual(2, u, "Aantalok fout");
         }
 
         [TestMethod()]
-        public void NieuweBeurtTest()
+        public void TestMethodAantal2()
         {
-            Assert.Fail();
+            MM mm = new MM();
+            mm.TeRaden = "1234";
+            mm.Poging = "2253";
+            int u = mm.AantalOK();
+            Assert.AreEqual(2, u, "Aantalok versie 3 fout");
+
         }
 
         [TestMethod()]
-        public void NieuwePogingTest()
+        public void TestMethodAantal3()
         {
-            Assert.Fail();
+            MM mm = new MM();
+            mm.TeRaden = "1234";
+            mm.Poging = "2253";
+            int u = mm.AantalOK();
+            Assert.AreEqual(2, u, "Aantalok versie 3 fout");
+
         }
 
-        [TestMethod()]
-        public void PositiesOKTest()
-        {
-            Assert.Fail();
-        }
-
-        [TestMethod()]
-        public void AantalOKTest()
-        {
-            Assert.Fail();
-        }
     }
+     
 }

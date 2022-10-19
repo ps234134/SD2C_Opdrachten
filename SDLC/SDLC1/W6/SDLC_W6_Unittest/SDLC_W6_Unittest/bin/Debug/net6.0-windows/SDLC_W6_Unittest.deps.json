@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SDLC_W6_Unittest/1.0.0": {
+        "runtime": {
+          "SDLC_W6_Unittest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDLC_W6_Unittest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

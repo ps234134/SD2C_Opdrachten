@@ -1,0 +1,66 @@
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.exe
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.deps.json
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.runtimeconfig.json
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.pdb
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding_MarkupCompile.cache
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding_MarkupCompile.lref
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.g.resources
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.AssemblyInfo.cs
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\refint\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.pdb
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.genruntimeconfig.cache
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\ref\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\5-10-22-DemoDD1-Binding\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.exe
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.deps.json
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.runtimeconfig.json
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.pdb
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.csproj.AssemblyReference.cache
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding_MarkupCompile.cache
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding_MarkupCompile.lref
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.g.resources
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.AssemblyInfo.cs
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\refint\5-10-22-DemoDD1-Binding.dll
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.pdb
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.genruntimeconfig.cache
+C:\Users\Tony\Desktop\Programming\C#\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\ref\5-10-22-DemoDD1-Binding.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.exe
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.deps.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.runtimeconfig.json
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\bin\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.csproj.AssemblyReference.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding_MarkupCompile.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding_MarkupCompile.lref
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.g.resources
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.AssemblyInfoInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.AssemblyInfo.cs
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.csproj.CoreCompileInputs.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\refint\5-10-22-DemoDD1-Binding.dll
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.pdb
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\5-10-22-DemoDD1-Binding.genruntimeconfig.cache
+C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\voorbeelden\DataBindingApp\DataBindingApp\5-10-22-DemoDD1-Binding\obj\Debug\net6.0-windows\ref\5-10-22-DemoDD1-Binding.dll

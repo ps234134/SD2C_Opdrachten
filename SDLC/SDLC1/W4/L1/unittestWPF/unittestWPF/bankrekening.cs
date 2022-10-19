@@ -29,7 +29,7 @@ namespace unittestWPF
         public void Storten(double bedrag)          // verhoog saldo
         {
             if (bedrag < 0.0)return;
-           
+            
             Saldo += bedrag;
         }
 
