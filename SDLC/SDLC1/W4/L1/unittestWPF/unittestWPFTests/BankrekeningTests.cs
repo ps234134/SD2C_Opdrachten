@@ -27,6 +27,45 @@ namespace unittestWPF.Tests
             rekening.Opnemen(4.55);                                 // Act
                                                                     // Assert.AreEqual(expected, actual, precision, error message)
             Assert.AreEqual(7.44, rekening.Saldo, 0.001, "Opnemen niet gelukt");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
 
         [TestMethod()]
