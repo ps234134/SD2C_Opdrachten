@@ -1,0 +1,112 @@
+﻿<Window x:Class="EindOpdr_DD1_TutaiTran.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EindOpdr_DD1_TutaiTran"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="25"/>
+            
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+
+
+        <Image Grid.ColumnSpan="5" Grid.RowSpan="6" Stretch="Fill" Source="C:\Users\tutai\OneDrive\Bureaublad\Summa\SD2C\Desktop development\DDV1\Eindopdr\EindOpdr_DD1_TutaiTran\EindOpdr_DD1_TutaiTran\assets\aurora.jpg"/>
+        <!-- list customers -->
+        <ListView x:Name="lstCustomer" Grid.Row="1" Grid.Column="1" ItemsSource="{Binding Customers}"  FontSize="15" SelectedItem="{Binding SelectedCostumer}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding CustomerId }"/>
+                        <TextBlock Grid.Column="1" Text="{Binding CustomerName}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <!-- list countries -->
+        <ListView x:Name="lstCountry" Grid.Row="1" Grid.Column="3" ItemsSource="{Binding Countries}"  SelectedItem="{Binding SelectedCountries}" FontSize="15">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding CountryId }"/>
+                        <TextBlock Grid.Column="1" Text="{Binding CountryName}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- buttons -->
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal">
+            <Label Content="Customer" VerticalAlignment="Center" Foreground="Yellow"/>
+            <Button Margin="100,0,0,0" Height="50" Width="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                    Background="Green" Foreground="White" x:Name="BtnAddCustomer" Click="BtnAddCustomer_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="15"/>
+                    </Style>
+                </Button.Resources>
+                <TextBlock Text="+" Margin="0,-7,0,0" FontSize="30"/>
+            </Button>
+            <Button Margin="10,0,0,0" Height="50" Width="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                    Background="Red" Foreground="White" x:Name="BtnCustomerDelete" Click="BtnCustomerDelete_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="15"/>
+                    </Style>
+                </Button.Resources>
+                <TextBlock Text="x" Margin="0,-7,0,0" FontSize="30"/>
+            </Button>
+        </StackPanel>
+        
+        <!--tb customer-->
+        <TextBox Grid.Row="4" Grid.Column="1" BorderThickness="2" Height="50" DataContext="{Binding SelectedCustomer}" Text="{Binding CustomerId }" FontSize="20"/>
+        <!-- buttons -->
+        <StackPanel Grid.Row="3" Grid.Column="3" Orientation="Horizontal">
+            <Label Content="Favourites" VerticalAlignment="Center" Foreground="Yellow"/>
+            <Button Margin="100,0,0,0" Height="50" Width="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                    Background="Green" Foreground="White" x:Name="BtnFavourite">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="15"/>
+                    </Style>
+                </Button.Resources>
+                <TextBlock Text="+" Margin="0,-7,0,0" FontSize="30"/>
+            </Button>
+            <Button Margin="10,0,0,0" Height="50" Width="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                    Background="Red" Foreground="White" x:Name="BtnFavouriteDelete">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="15"/>
+                    </Style>
+                </Button.Resources>
+                <TextBlock Text="x" Margin="0,-7,0,0" FontSize="30"/>
+            </Button>
+        </StackPanel>
+        <!--lst fav-->
+        <ListView x:Name="lstvFavPlace" Grid.Row="4" Grid.Column="3" BorderThickness="2" ItemsSource="{Binding LstFavCountries}" DisplayMemberPath="Naam" FontSize="20" SelectedItem="{Binding SelectedFavCountries}"/>
+    </Grid>
+</Window>

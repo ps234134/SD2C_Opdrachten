@@ -1,0 +1,9 @@
+﻿<Application x:Class="EindOpdr_DD1_TutaiTran.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:EindOpdr_DD1_TutaiTran"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

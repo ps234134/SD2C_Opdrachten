@@ -45,16 +45,7 @@ namespace MastermindCore6.Model.Tests
 
         }
 
-        [TestMethod()]
-        public void TestMethodAantal3()
-        {
-            MM mm = new MM();
-            mm.TeRaden = "1234";
-            mm.Poging = "2253";
-            int u = mm.AantalOK();
-            Assert.AreEqual(2, u, "Aantalok versie 3 fout");
-
-        }
+    
 
     }
      

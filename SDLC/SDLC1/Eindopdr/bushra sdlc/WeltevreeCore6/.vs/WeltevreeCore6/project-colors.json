@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db05e481-54d7-42f8-bcbf-d1655d42019b": {
+      "ProjectGuid": "db05e481-54d7-42f8-bcbf-d1655d42019b",
+      "DisplayName": "WeltevreeCore6",
+      "ColorIndex": 0
+    },
+    "5dd29d06-ca6c-468d-9262-8e988a838578": {
+      "ProjectGuid": "5dd29d06-ca6c-468d-9262-8e988a838578",
+      "DisplayName": "WeltevreeCore6Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
